@@ -53,5 +53,3 @@ def stem_words(words):
         lemma = m.lemmatize(word)
         lemmas.append(lemma)
     return lemmas
-
-    for word in words:
